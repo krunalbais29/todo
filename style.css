@@ -32,7 +32,9 @@ html,body{
 
 .delete-btn{
    border: none;
-   background-color: transparent;
+   border-radius: 30%;
+   padding: 2px;
+   background-color: white;
 }
 
 .delete-btn:focus{
